@@ -20,11 +20,6 @@ Program to implement the Decision Tree Classifier Model for Predicting Employee 
 Developed by: Punugoti Ramsai
 RegisterNumber: 212221240041 
 ~~~
-/*
-Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: Koduru Sanath Kumar Reddy
-RegisterNumber:  212221240024
-
 import pandas as pd
 data = pd.read_csv("Employee.csv")
 data.head()
